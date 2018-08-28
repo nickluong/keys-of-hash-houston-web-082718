@@ -1,7 +1,8 @@
 class Hash
   def keys_of(hash, *arguments)
     # code goes here
-    hash.collect do|word|
+    count = 0 
+    while count < 
       if(arguments.has_key? word)
         word
       end
