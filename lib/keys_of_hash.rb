@@ -5,5 +5,6 @@ class Hash
       if(arguments.contains(word))
         word 
       end
+    end
   end
 end
